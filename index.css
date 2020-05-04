@@ -1,0 +1,26 @@
+.grid{
+    display: grid;
+    width:100%;
+    height:80%;
+}
+
+.cell{
+    border-style:solid;
+    width: 100%;
+    height: 100%;
+    font-size: 33;
+    font-family:"Lucida Console";
+    background-color: #ffffff;
+}
+input{
+    width:100%;
+    font-size: 20;
+}
+button{
+    width:20%;
+    height:10%;
+    margin-left:40%;
+}
+body{
+    background-color: #5fa5b3;
+}
